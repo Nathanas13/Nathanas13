@@ -2,7 +2,7 @@
 title: Expertise Process Associate Consultants
 email: info@ep-ac.be
 description: > # this means to ignore newlines until "baseurl:"
-  An consultant company, built by experts, for more than service
+  A consulting company, built by experts, for more than service
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.ep-ac.be" # the base hostname & protocol for your site
 twitter_username: 
