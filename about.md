@@ -1,11 +1,14 @@
 ---
 layout: page
-title: About
+title: About Us
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+We have over 20 years of consultancy experience in this area of business and we strive to achieve the following: develop, empower, enable and maintain.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+Our aim is:
+• to develop your skills
+• to empower you to feel more confident
+• to enable you to maintain changes.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+We work with you and carry out research to understand your needs and the needs of your customers. We then identify the best way or ways for these needs to be met and enable you to implement this effectively.
