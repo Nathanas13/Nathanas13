@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Our Client
-permalink: /client/
+title: Our Clients
+permalink: /clients/
 ---
 
 
